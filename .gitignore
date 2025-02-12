@@ -1,0 +1,14 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
+# Configuration files
+.env
+config.json
+
+# Backup files
+*.bak
